@@ -14,9 +14,9 @@ I'm Steven Del Rio. I am a QA Engineer living in the suburbs of Chicago, IL.
 
 
 ##### Tools And Technologies: 
-![Selenium](https://img.shields.io/badge/Selenium-00AA01?style=for-the-badge&logo=selenium&link=http://right&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&link=http://right&logoColor=ffffff)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&link=http://right&logoColor=000000)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&link=http://right&logoColor=ffffff)
-![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&link=http://right&logoColor=ffffff)
+![Github Actions](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&link=http://right&logoColor=ffffff)
+
 
